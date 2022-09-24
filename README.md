@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm a Frontend Developer with focus on Web3
-- 🔭 I’m enjoy working with Typescript, React & Web3
+- 🔥 I’m enjoy working with Typescript, React & Web3
 - 👀 I’m interested in Blockchain Development
 - 🌱 I’m currently learning Web3 technologies
 <!-- Your badges -->
